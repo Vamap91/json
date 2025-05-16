@@ -1,5 +1,3 @@
 streamlit
-beautifulsoup4
 pandas
 requests
-pytube
